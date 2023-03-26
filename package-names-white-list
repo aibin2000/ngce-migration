@@ -1,0 +1,17 @@
+com.fasterxml.jackson.core.format
+
+au.com.optus.poc.jacksonpoc
+com.fasterxml.jackson.annotation
+com.fasterxml.jackson.core.json
+com.fasterxml.jackson.core
+com.fasterxml.jackson.core.json.async
+com.fasterxml.jackson.core.async
+au.com.optus.ngcemigrations
+com.fasterxml.jackson.core.type
+com.fasterxml.jackson.core.io
+com.fasterxml.jackson.core.exc
+au.com.optus.dev1.datamodels
+com.fasterxml.jackson.core.filter
+com.fasterxml.jackson.core.util
+com.fasterxml.jackson.core.base
+com.fasterxml.jackson.core.sym
